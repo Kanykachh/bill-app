@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/Kanykachh/Billed-app-FR-Front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/Kanykachh/Billed-app-FR-Back.git
